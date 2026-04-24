@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "my-app": "file:",
-    "next": "15.0.3",
+    "next": "15.0.7",
     "nodemon": "^3.1.7",
     "portfolio": "file:",
     "react": "19.0.0-rc-66855b96-20241106",
