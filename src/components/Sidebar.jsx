@@ -92,7 +92,7 @@ const Sidebar = () => {
           <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-500 opacity-70 blur transition duration-500 group-hover:opacity-100" />
 
           <img
-            src="https://res.cloudinary.com/dbugkyyly/image/upload/v1733544723/ymcjs4gfsoypruclye0r.jpg"
+            src="https://res.cloudinary.com/dbugkyyly/image/upload/v1790185431/Shivansh_Image_t6ibzt.png"
             alt="Shivansh Mishra"
             className="relative h-32 w-32 rounded-full border-4 border-zinc-900 object-cover transition duration-500 group-hover:scale-105"
           />
